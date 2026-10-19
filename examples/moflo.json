@@ -1,0 +1,667 @@
+{
+  "id": "16ae1198-aca4-4e35-b1e1-529b8692a329",
+  "sourceUrl": "https://moflo.ai/",
+  "createdAt": "2026-10-18T22:36:26.694Z",
+  "updatedAt": "2026-10-18T22:36:26.694Z",
+  "scrapedPages": [
+    "https://moflo.ai/",
+    "https://moflo.ai/industries/trades-services",
+    "https://moflo.ai/case-studies/social-media",
+    "https://moflo.ai/about",
+    "https://moflo.ai/help/terms-of-service",
+    "https://moflo.ai/mosocial",
+    "https://moflo.ai/momail",
+    "https://moflo.ai/flo-gen",
+    "https://moflo.ai/industries/high-tech",
+    "https://moflo.ai/pricing"
+  ],
+  "foundation": {
+    "name": "MoFlo",
+    "overview": "MoFlo is an AI growth platform for small and local businesses that creates and manages marketing - social posts, email campaigns, blog articles, and review responses - through apps like MoSocial, MoMail, MoBlogs, and MoReviews.",
+    "website": "https://moflo.ai/",
+    "industry": null,
+    "businessModel": null,
+    "companyRole": null,
+    "yearFounded": null,
+    "legalEntityType": null,
+    "employeeCount": null,
+    "mainAddress": "Las Vegas, NV",
+    "otherLocations": [],
+    "serviceLocations": [],
+    "altNames": [],
+    "phone": "(702) 350-1757",
+    "email": "info@moflo.ai"
+  },
+  "positioning": {
+    "pitch": null,
+    "foundingStory": "MoFlo started with a simple idea: advanced AI shouldn’t be out of reach for small businesses. What began as a handful of experimental tools quickly grew into a full suite of solutions designed to fuel growth—and we’re just getting started."
+  },
+  "market": {
+    "buyers": [],
+    "customerNeeds": null,
+    "idealPersona": null,
+    "industryGroupings": [],
+    "industryOutlook": null,
+    "channels": [
+      "Website",
+      "Phone",
+      "Email"
+    ],
+    "funnels": [],
+    "ctas": [
+      "Start for free",
+      "(702) 350-1757",
+      "View Analytics",
+      "Schedule"
+    ],
+    "suppliers": []
+  },
+  "branding": {
+    "writingStyle": null,
+    "artStyle": null,
+    "fonts": [
+      "Poppins",
+      "Inter",
+      "Kanit",
+      "Onest"
+    ],
+    "colors": [
+      "#2663eb",
+      "#0099ff",
+      "#101828",
+      "#e39400",
+      "#000000",
+      "#ffffff"
+    ],
+    "logos": [
+      "https://framerusercontent.com/images/1jeR9lQLMKCw6d2Xmjx1jvreBo.png",
+      "https://framerusercontent.com/images/f9vejyGTZbGVBNFka4jMuKDe9Y.png?width=1146&height=560",
+      "https://framerusercontent.com/images/EPtVjpTyqpqDAWSlYsFsnOn4.png",
+      "https://framerusercontent.com/images/e6mNRTj7bfK6aonWyGMa1F7Olo4.png"
+    ],
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/zLecHe85qcJ3eLX5eMDMVNPDpI.png?width=832&height=1027",
+        "alt": "Potrait of Nathan",
+        "category": "Team",
+        "page": "https://moflo.ai/about"
+      },
+      {
+        "url": "https://framerusercontent.com/images/41tSBmifkLzhuLdorZOCWfdF44.png?width=874&height=737",
+        "alt": "Potrait of Tristan",
+        "category": "Team",
+        "page": "https://moflo.ai/about"
+      },
+      {
+        "url": "https://framerusercontent.com/images/8D82fgPbWxkHMntvbLz9Z2clb3c.png?width=697&height=631",
+        "alt": "Portrait of Anmol Gupta",
+        "category": "Team",
+        "page": "https://moflo.ai/about"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BTgOVnMEzOkmQTzHzcs5DWHtOPM.png?width=928&height=1120",
+        "alt": "Potrait of Sotiris",
+        "category": "Team",
+        "page": "https://moflo.ai/about"
+      },
+      {
+        "url": "https://framerusercontent.com/images/01tkZ0yQXSt6hfDNqwZkfdPEIqg.png?width=864&height=1104",
+        "alt": "Potrait of Lucas",
+        "category": "Team",
+        "page": "https://moflo.ai/about"
+      },
+      {
+        "url": "https://framerusercontent.com/images/PkfdIvRAyAfeBGQVEyId33XFpg.png?width=433&height=577",
+        "alt": "Potrait of James",
+        "category": "Team",
+        "page": "https://moflo.ai/about"
+      },
+      {
+        "url": "https://framerusercontent.com/images/xZDmmRSnUGCmWTVFLDgHvZgHOCE.png?width=635&height=696",
+        "alt": "Potrait of Alexander",
+        "category": "Team",
+        "page": "https://moflo.ai/about"
+      },
+      {
+        "url": "https://framerusercontent.com/images/oEWeJst18RphJ0PJRVLXf0D5qXU.png?width=864&height=1053",
+        "alt": "Potrait of Christopher",
+        "category": "Team",
+        "page": "https://moflo.ai/about"
+      },
+      {
+        "url": "https://framerusercontent.com/images/5vlKWzIENk3Hl3wiPnUZZrmeWBs.jpg?width=1856&height=2304",
+        "alt": null,
+        "category": "Project",
+        "page": "https://moflo.ai/case-studies/social-media"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7Pqp6wx8w3eFlrc91N121GEAxDo.png?width=300&height=268",
+        "alt": null,
+        "category": "Project",
+        "page": "https://moflo.ai/case-studies/social-media"
+      },
+      {
+        "url": "https://framerusercontent.com/images/IaMQ9zJN1rEAMP2JkZojSVei4A.png?width=686&height=586",
+        "alt": null,
+        "category": "Service",
+        "page": "https://moflo.ai/industries/trades-services"
+      },
+      {
+        "url": "https://framerusercontent.com/images/XpY5KhaQZKtH81ounLF3b6F3AQ.png?width=686&height=586",
+        "alt": null,
+        "category": "Service",
+        "page": "https://moflo.ai/industries/trades-services"
+      },
+      {
+        "url": "https://framerusercontent.com/images/uzFdqDNCBMY3nd0ebtTw7Ssmddc.png?width=686&height=586",
+        "alt": null,
+        "category": "Service",
+        "page": "https://moflo.ai/industries/trades-services"
+      },
+      {
+        "url": "https://framerusercontent.com/images/ZHxUtqCA5ZE0Y3IkX46kTpNDPB4.png?width=686&height=586",
+        "alt": null,
+        "category": "Service",
+        "page": "https://moflo.ai/industries/trades-services"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7AFJDop3T0i3AyIXXNddHzokY.jpg?width=1200&height=675",
+        "alt": "Location: Las Vegas",
+        "category": "Service",
+        "page": "https://moflo.ai/about"
+      },
+      {
+        "url": "https://framerusercontent.com/images/KX0XYIgLMWlxBIZxtNy2ovOjPxI.jpg?width=1200&height=800",
+        "alt": "Location: Las Vegas",
+        "category": "Service",
+        "page": "https://moflo.ai/about"
+      },
+      {
+        "url": "https://framerusercontent.com/images/K2MuOmXRNkDu41syihWahvZqkL0.webp?width=1600&height=1168",
+        "alt": "Location: San Francisco",
+        "category": "Service",
+        "page": "https://moflo.ai/about"
+      },
+      {
+        "url": "https://framerusercontent.com/images/jVROJJyOt4oj1VxsXxiVi5C2Wc.jpg?width=1200&height=800",
+        "alt": "Location: Hoboken",
+        "category": "Service",
+        "page": "https://moflo.ai/about"
+      },
+      {
+        "url": "https://framerusercontent.com/images/AZtInicdXodIvWij7EnJf8eTGB4.webp?width=1900&height=1418",
+        "alt": "Location: Hoboken",
+        "category": "Service",
+        "page": "https://moflo.ai/about"
+      },
+      {
+        "url": "https://framerusercontent.com/images/13o9pLV7ZCcfsxolapYDZuFYwRI.jpg?width=4032&height=3024",
+        "alt": "Location: Las Vegas",
+        "category": "Service",
+        "page": "https://moflo.ai/about"
+      },
+      {
+        "url": "https://framerusercontent.com/images/3RNy6zzyOYhrMgnNbyN7Am7NM5o.jpg?width=3024&height=4032",
+        "alt": null,
+        "category": "Service",
+        "page": "https://moflo.ai/about"
+      },
+      {
+        "url": "https://framerusercontent.com/images/Hk81BB7I8zBnjsgsmHco15TSA3M.png?width=500&height=500",
+        "alt": null,
+        "category": "Service",
+        "page": "https://moflo.ai/about"
+      },
+      {
+        "url": "https://framerusercontent.com/images/EntHJb45ciC9br1GdN3u8reyi0A.jpg?width=1500&height=1000",
+        "alt": null,
+        "category": "Service",
+        "page": "https://moflo.ai/about"
+      },
+      {
+        "url": "https://framerusercontent.com/images/YjyiAVjmEQ6EFuOY65mYBP5Sw.png?width=420&height=594",
+        "alt": null,
+        "category": "Service",
+        "page": "https://moflo.ai/about"
+      }
+    ]
+  },
+  "onlinePresence": {
+    "socials": [
+      {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/mofloai/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/MoFloAI"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/mofloai/"
+      },
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/people/MoFlo/61578564326471/"
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/@MoFloAI"
+      },
+      {
+        "platform": "tiktok",
+        "url": "https://www.tiktok.com/@mofloai"
+      }
+    ]
+  },
+  "people": [],
+  "offerings": [
+    {
+      "name": "MoSocial",
+      "category": null,
+      "description": "MoSocial eliminates hours of planning, writing, designing, and posting social media content",
+      "features": [],
+      "pricing": "$149/mo",
+      "url": "https://moflo.ai/mosocial"
+    },
+    {
+      "name": "MoMail",
+      "category": null,
+      "description": "MoMail is MoFlo's AI newsletter generator for small businesses. It drafts newsletters, promotions, and nurture emails from your business knowledge. Review and edit your copy, then export a draft to Mailchimp to choose your audience and send.",
+      "features": [],
+      "pricing": "$79/mo",
+      "url": "https://moflo.ai/momail"
+    },
+    {
+      "name": "MoBlogs",
+      "category": null,
+      "description": null,
+      "features": [],
+      "pricing": null,
+      "url": "https://moflo.ai/moblogs"
+    },
+    {
+      "name": "MoReviews",
+      "category": null,
+      "description": null,
+      "features": [],
+      "pricing": null,
+      "url": "https://moflo.ai/moreviews"
+    }
+  ],
+  "extras": {
+    "voiceSamples": [
+      "We make AI simple, practical, and powerful, so you can spend less time figuring out tech and more time growing what you love.",
+      "Book a demo to see how MoFlo helps teams move faster and work smarter, and find out what we can do for your business.",
+      "Get started for free to see how MoFlo helps teams move faster and work smarter, and find out what we can do for your business.",
+      "We pride ourselves on providing customers with a rapid deployment to ensure you can start realizing the value asap.",
+      "Start a trial, run your first 60 days, and tell us — we feature customers whose numbers we can verify."
+    ],
+    "uniqueSellingPoints": [],
+    "testimonials": [],
+    "faqs": [
+      {
+        "question": "What exactly does MoFlo do for my business?",
+        "answer": "MoFlo is an AI growth platform that creates and manages your marketing for you — social posts, email campaigns, blog articles, and review responses — through four apps: MoSocial, MoMail, MoBlogs, and MoReviews. Flo, MoFlo's AI, learns your business and generates content that's ready to review and publish, so marketing takes minutes a day instead of hours."
+      },
+      {
+        "question": "Do I need to be a marketer to use MoFlo?",
+        "answer": "No — MoFlo is built for business owners and small teams in industries like real estate, insurance, trades, and franchises who don't have time to run marketing. Content arrives already drafted; your job is to judge whether it sounds like you, not to write it."
+      },
+      {
+        "question": "How much does MoFlo cost?",
+        "answer": "Individual apps start at $79/mo, and the Business Bundle gives you every app on the platform for $299/mo — roughly the price of two apps. Every plan starts with a 7-day free trial, no long-term contract, cancel anytime."
+      },
+      {
+        "question": "How is MoFlo different from tools like ChatGPT or a scheduling app?",
+        "answer": "Generic AI tools give you a blank prompt box; schedulers just queue what you wrote. MoFlo combines both and adds the missing piece: FloGen proactively generates on-brand content from your business knowledge, and Brand Power scores every piece 0–100 so you know it's on-brand before it goes out. You approve, MoFlo publishes directly to your connected accounts."
+      },
+      {
+        "question": "Which platforms does MoFlo connect to?",
+        "answer": "MoSocial publishes to Facebook, Instagram, X, LinkedIn, YouTube, and TikTok; MoMail connects to Mailchimp, Constant Contact, HubSpot, and Follow Up Boss; MoBlogs publishes straight to WordPress; and Google Drive imports your existing files into your Library. Most integrations take under 30 seconds to connect."
+      },
+      {
+        "question": "How long does it take to get started?",
+        "answer": "Minutes. You sign up, tell Flo about your business, connect your accounts, and FloGen starts preparing content immediately — many users have their first posts ready the same day."
+      },
+      {
+        "question": "What marketing work can MoFlo help me create?",
+        "answer": "MoFlo brings social posts, emails, blog content, and review replies into a shared marketing workflow. Its homepage describes apps that turn a marketing channel into work you can review. You can also connect content and files in one place, then manage the handoffs between tools."
+      },
+      {
+        "question": "Do I have to write every social post myself?",
+        "answer": "MoSocial plans, writes, designs, and schedules social posts. The MoFlo homepage describes content arriving ready for review, rather than requiring you to start each post from scratch. You can review posts alongside blogs, emails, and replies in the same place before deciding what represents your business."
+      },
+      {
+        "question": "Can MoFlo keep my marketing content together?",
+        "answer": "MoFlo connects social content, emails, blogs, and files in one place. Its Library stores content Flo creates as well as files you upload. That gives you a shared collection of brand material to reuse across marketing work, including images, documents, blog articles, and email drafts."
+      },
+      {
+        "question": "Who is MoFlo built for?",
+        "answer": "MoFlo builds AI tools for small and medium sized businesses that want practical technology without enterprise complexity. Its About page describes making AI accessible to business owners without requiring technical expertise. The company focuses on helping those businesses spend less time figuring out tools and more time working on growth."
+      },
+      {
+        "question": "Can I use a MoFlo solution on its own?",
+        "answer": "MoFlo's About page says its solutions can work as standalone services or alongside other MoFlo solutions. That allows a business to focus on a specific need or combine tools into a broader growth system. The intended combination depends on the company's needs rather than a single setup for everyone."
+      },
+      {
+        "question": "What is MoFlo's mission?",
+        "answer": "MoFlo's mission is to make effective AI tools accessible to small and medium sized businesses. Its About page describes leveling the playing field with practical, affordable solutions. The team aims to simplify technology so business owners can focus on growing their companies instead of spending their time learning complicated systems."
+      },
+      {
+        "question": "What kinds of emails can I create with MoMail?",
+        "answer": "MoMail creates newsletters, promotions, re-engagement campaigns, and ongoing nurture emails. Its product page says FloGen writes from your business knowledge so the content reflects your business. You review the draft and edit it if needed before sending, rather than starting each email with a blank page."
+      },
+      {
+        "question": "Do I need to bring my own subscriber list?",
+        "answer": "You use the audience you already have in your connected email platform. MoFlo does not sell or supply subscriber lists. The MoMail page describes its role as helping you keep in touch with that audience through consistent communications, with content created from your business knowledge and reviewed before sending."
+      },
+      {
+        "question": "What does MoMail cost?",
+        "answer": "$79/mo — the most affordable app on the platform — or included in the $299/mo Business Bundle. 7-day free trial either way."
+      },
+      {
+        "question": "Does MoMail work with my existing email platform?",
+        "answer": "Yes — MoMail connects to Mailchimp, Constant Contact, HubSpot, and Follow Up Boss, using your existing lists and sender reputation rather than forcing a migration."
+      },
+      {
+        "question": "How do I know an email is on-brand before I send it?",
+        "answer": "Every email gets a 0–100 content score against your brand knowledge, live as you edit. Advanced settings (like a compliance footer that's always appended) apply to both your own drafts and FloGen content — useful in regulated industries like insurance and real estate."
+      },
+      {
+        "question": "How does MoMail use my company profile?",
+        "answer": "The MoMail setup flow asks for your website, tone, and target audience so its AI can reflect your brand in email content. The product page also describes using your company's personality, tone, and style for personalized communications. You can review the resulting draft and fine-tune the content before sending."
+      },
+      {
+        "question": "How fast can I be up and running?",
+        "answer": "We pride ourselves on providing customers with a rapid deployment to ensure you can start realizing the value asap. Our customers can expect to be fully up and running within a few minutes."
+      },
+      {
+        "question": "How much do MoFlo's solutions cost?",
+        "answer": "We price all of our solutions in our suite, based on an easy-to-manage monthly subscription (solutions start at $49/mo). This enables our customers to grow by adding additional solutions, as their business needs grow."
+      },
+      {
+        "question": "How do I pay for my MoFlo solutions?",
+        "answer": "MoFlo provides a paperless sign-up and billing process, with automated monthly billing for the customer’s chosen solutions."
+      },
+      {
+        "question": "Can MoFlo solutions work with the tools I already use?",
+        "answer": "Yes. MoFlo is designed to integrate seamlessly with the platforms small businesses rely on, including popular CRMs, email systems, and website platforms. If you need custom integrations, our team can build those for you."
+      },
+      {
+        "question": "Do I need technical expertise to use MoFlo?",
+        "answer": "Not at all. MoFlo was built for business owners and teams without a tech background. Our solutions are easy to use, and your dedicated onboarding specialist will guide you through setup."
+      },
+      {
+        "question": "What industries benefit most from MoFlo?",
+        "answer": "MoFlo works across many industries, but we’ve built tailored solutions for real estate, high tech, trades & services, franchises, insurance, and professional services."
+      },
+      {
+        "question": "Can I change or upgrade my plan later?",
+        "answer": "Absolutely. You can add, remove, or upgrade your solutions at any time. Many of our customers start with one solution and expand into a bundle as they grow."
+      },
+      {
+        "question": "What kind of support do I get with MoFlo?",
+        "answer": "Our premium clients are assigned a Client Success Manager, who provides personalized guidance. All customers also have access to email and phone support during business hours."
+      },
+      {
+        "question": "How secure is my data with MoFlo?",
+        "answer": "We take data security seriously. All customer data is encrypted and stored securely, and we follow industry best practices to protect your business information."
+      },
+      {
+        "question": "Does MoFlo work outside of the U.S.?",
+        "answer": "Yes. MoFlo can be used globally. Certain solutions, such as localized lead generation or MoLetters, may have region-specific availability, and we’ll confirm fit during onboarding."
+      },
+      {
+        "question": "Can multiple team members use MoFlo solutions?",
+        "answer": "Yes. MoFlo solutions can be accessed by multiple team members under the same account, making collaboration easy."
+      },
+      {
+        "question": "How often are MoFlo solutions updated?",
+        "answer": "We’re always improving. Our team regularly updates each solution with new features, optimizations, and improvements—all included in your subscription."
+      }
+    ],
+    "trustSignals": [
+      "Each day was a mix of heads-down focus on building MoFlo’s future and team experiences that bonded us far beyond a normal internship.",
+      "Customer acknowledges that certain features may be offered on a trial or experimental basis, and such features are provided “AS IS” without warranty.",
+      "MoFlo does not guarantee any result, outcome, or uniqueness of AI outputs and disclaims all liability arising from Customer’s reliance on such outputs.",
+      "Disclaimer of Warranties",
+      "THE SERVICES ARE PROVIDED “AS IS” AND MOFLO HEREBY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE.",
+      "MOFLO SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT, AND ALL WARRANTIES ARISING FROM COURSE OF DEALING, USAGE, OR TRADE PRACTICE.",
+      "Judgment on the award may be entered in any court having jurisdiction.",
+      "All legal notices under this Agreement to MoFlo must be delivered in writing by courier, electronic facsimile, electronic mail, or by certified or registered mail (postage prepaid and return receipt requested) to:"
+    ],
+    "contentThemes": [
+      "You have questions. We have answers.",
+      "Stay active on every platform",
+      "Brand Power gives your brand a score.",
+      "Your marketing stack, connected to MoFlo",
+      "She creates your content while you run your business.",
+      "Made for Businesses Like Yours",
+      "AI Solutions for",
+      "Trades and Services",
+      "Review & Schedule",
+      "See how FloGen does the Heavylifting for You",
+      "Send emails that convert more customers",
+      "What Gets Generated"
+    ],
+    "pressMentions": [],
+    "communityAndValues": [
+      "Highlight community involvement in new areas with MoSocial",
+      "Our mission is to level the playing field by providing accessible, affordable, and effective AI-powered solutions that help small and medium-sized businesses.",
+      "From day one, our mission has been to level the playing field, giving entrepreneurs and local companies access to affordable, effective technology.",
+      "The MoFlo Internship House wasn’t just about work—it was about creating an environment where creativity and collaboration could thrive.",
+      "We believe innovation happens when people come together with purpose and energy."
+    ],
+    "seasonalMessaging": [],
+    "contentStarters": [
+      {
+        "app": "MoSocial",
+        "type": "Service highlight",
+        "title": "MoSocial: what's included",
+        "angle": "Explain in two lines: “MoSocial eliminates hours of planning, writing, designing, and posting social media content” Mention “$149/mo”. End with “Start for free”.",
+        "basedOn": [
+          "Offering: MoSocial"
+        ]
+      },
+      {
+        "app": "MoMail",
+        "type": "Offer email",
+        "title": "Subject: $149/mo on MoSocial",
+        "angle": "Lead with the offer, explain who it's for in two sentences, then one button. End with “Start for free”.",
+        "basedOn": [
+          "Offering: MoSocial",
+          "Pricing: $149/mo"
+        ]
+      },
+      {
+        "app": "MoMail",
+        "type": "FAQ email",
+        "title": "Subject: What exactly does MoFlo do for my business?",
+        "angle": "Answer it in three short paragraphs, starting from the site's own answer: “MoFlo is an AI growth platform that creates and manages your marketing for you — social posts, email campaigns, blog articles, and review…”. End with “Start for free”.",
+        "basedOn": [
+          "FAQ: What exactly does MoFlo do for my business?"
+        ]
+      },
+      {
+        "app": "MoMail",
+        "type": "Newsletter",
+        "title": "Subject: This month at MoFlo",
+        "angle": "Three short blocks: one tip about mosocial, one about momail, and one customer quote or team photo. End with “Start for free”.",
+        "basedOn": [
+          "Offering: MoSocial",
+          "Offering: MoMail"
+        ]
+      },
+      {
+        "app": "MoBlogs",
+        "type": "Answer article",
+        "title": "What exactly does MoFlo do for my business?",
+        "angle": "Expand the site's answer into a full guide (what it depends on, typical timeline or cost, when to call a pro): “MoFlo is an AI growth platform that creates and manages your marketing for you — social posts, email campaigns, blog articles, and review…”.",
+        "basedOn": [
+          "FAQ: What exactly does MoFlo do for my business?"
+        ]
+      },
+      {
+        "app": "MoBlogs",
+        "type": "Answer article",
+        "title": "Do I need to be a marketer to use MoFlo?",
+        "angle": "Expand the site's answer into a full guide (what it depends on, typical timeline or cost, when to call a pro): “No — MoFlo is built for business owners and small teams in industries like real estate, insurance, trades, and franchises who don't have…”.",
+        "basedOn": [
+          "FAQ: Do I need to be a marketer to use MoFlo?"
+        ]
+      },
+      {
+        "app": "MoBlogs",
+        "type": "Answer article",
+        "title": "How much does MoFlo cost?",
+        "angle": "Expand the site's answer into a full guide (what it depends on, typical timeline or cost, when to call a pro): “Individual apps start at $79/mo, and the Business Bundle gives you every app on the platform for $299/mo — roughly the price of two apps.…”.",
+        "basedOn": [
+          "FAQ: How much does MoFlo cost?"
+        ]
+      },
+      {
+        "app": "MoBlogs",
+        "type": "Local service guide",
+        "title": "MoSocial: what to expect",
+        "angle": "Walk through the process step by step, and explain “$149/mo”. Use the city name naturally for local search.",
+        "basedOn": [
+          "Offering: MoSocial"
+        ]
+      },
+      {
+        "app": "MoBlogs",
+        "type": "Local service guide",
+        "title": "MoMail: what to expect",
+        "angle": "Walk through the process step by step, and explain “$79/mo”. Use the city name naturally for local search.",
+        "basedOn": [
+          "Offering: MoMail"
+        ]
+      }
+    ],
+    "compliance": {
+      "privacyPolicyUrl": "https://moflo.ai/help/privacy-policy",
+      "termsUrl": "https://moflo.ai/help/terms-of-service",
+      "disclaimers": [
+        "MoFlo is not responsible for external websites or integrations linked through our platform.",
+        "Disclaimer of Warranties"
+      ]
+    }
+  },
+  "sources": {
+    "foundation.website": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://moflo.ai/"
+    },
+    "branding.logos": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://moflo.ai/pricing"
+    },
+    "foundation.name": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://moflo.ai/"
+    },
+    "foundation.overview": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://moflo.ai/"
+    },
+    "foundation.mainAddress": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://moflo.ai/"
+    },
+    "foundation.phone": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://moflo.ai/"
+    },
+    "foundation.email": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://moflo.ai/"
+    },
+    "extras.faqs": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://moflo.ai/"
+    },
+    "onlinePresence.socials": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://moflo.ai/"
+    },
+    "extras.compliance": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://moflo.ai/"
+    },
+    "branding.colors": {
+      "method": "css",
+      "confidence": "medium",
+      "url": "https://moflo.ai/"
+    },
+    "branding.fonts": {
+      "method": "css",
+      "confidence": "medium",
+      "url": "https://moflo.ai/"
+    },
+    "offerings": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://moflo.ai/"
+    },
+    "market.ctas": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://moflo.ai/"
+    },
+    "market.channels": {
+      "method": "html",
+      "confidence": "medium",
+      "url": "https://moflo.ai/"
+    },
+    "extras.contentThemes": {
+      "method": "html",
+      "confidence": "low",
+      "url": "https://moflo.ai/"
+    },
+    "extras.trustSignals": {
+      "method": "html",
+      "confidence": "medium",
+      "url": "https://moflo.ai/"
+    },
+    "extras.communityAndValues": {
+      "method": "html",
+      "confidence": "low",
+      "url": "https://moflo.ai/"
+    },
+    "extras.compliance.disclaimers": {
+      "method": "html",
+      "confidence": "medium",
+      "url": "https://moflo.ai/"
+    },
+    "extras.voiceSamples": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://moflo.ai/"
+    },
+    "positioning.foundingStory": {
+      "method": "html",
+      "confidence": "medium",
+      "url": "https://moflo.ai/about"
+    },
+    "branding.images": {
+      "method": "html",
+      "confidence": "medium",
+      "url": "https://moflo.ai/"
+    },
+    "extras.contentStarters": {
+      "method": "derived",
+      "confidence": "medium"
+    }
+  }
+}

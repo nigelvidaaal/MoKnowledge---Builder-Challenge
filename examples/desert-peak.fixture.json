@@ -1,0 +1,508 @@
+{
+  "id": "8a3a1f1b-dea2-4801-8d73-cb852109cbea",
+  "sourceUrl": "https://desert-peak.example/",
+  "createdAt": "2026-10-18T22:45:58.053Z",
+  "updatedAt": "2026-10-18T22:45:58.053Z",
+  "scrapedPages": [
+    "https://desert-peak.example/",
+    "https://desert-peak.example/about",
+    "https://desert-peak.example/contact",
+    "https://desert-peak.example/faq",
+    "https://desert-peak.example/services/drain-cleaning",
+    "https://desert-peak.example/services/water-heaters"
+  ],
+  "foundation": {
+    "name": "Desert Peak Plumbing",
+    "overview": "Family-owned plumbing, water heater and drain service for the Las Vegas valley.",
+    "website": "https://desert-peak.example/",
+    "industry": "Plumber",
+    "businessModel": null,
+    "companyRole": null,
+    "yearFounded": 1998,
+    "legalEntityType": "LLC",
+    "employeeCount": null,
+    "mainAddress": "4120 W Sunset Rd, Las Vegas, NV 89118",
+    "otherLocations": [],
+    "serviceLocations": [
+      "Las Vegas",
+      "Henderson",
+      "Summerlin"
+    ],
+    "altNames": [
+      "Desert Peak Plumbing LLC"
+    ],
+    "phone": "(702) 555-0142",
+    "email": "hello@desertpeakplumbing.example"
+  },
+  "positioning": {
+    "pitch": "Las Vegas Plumbers You Can Trust Since 1998. We're a family-owned team that treats your home like our own.",
+    "foundingStory": "Desert Peak Plumbing was founded in 1998 by Maria Torres, a third-generation plumber who started with one truck and a promise to treat every customer like family. Today our team of 14 licensed technicians serves thousands of homes across the valley."
+  },
+  "market": {
+    "buyers": [],
+    "customerNeeds": null,
+    "idealPersona": null,
+    "industryGroupings": [],
+    "industryOutlook": null,
+    "channels": [
+      "Website",
+      "Phone",
+      "Email"
+    ],
+    "funnels": [
+      "Newsletter signup",
+      "Quote / estimate request form",
+      "Online booking / scheduler",
+      "Financing options",
+      "Free estimate / consultation offer"
+    ],
+    "ctas": [
+      "Get My Free Estimate",
+      "Call (702) 555-0142",
+      "Schedule Service",
+      "Subscribe",
+      "Request My Quote"
+    ],
+    "suppliers": []
+  },
+  "branding": {
+    "writingStyle": null,
+    "artStyle": null,
+    "fonts": [
+      "Montserrat",
+      "Open Sans"
+    ],
+    "colors": [
+      "#0b5fff",
+      "#ff7a00",
+      "#1f2937",
+      "#ffffff"
+    ],
+    "logos": [
+      "https://desert-peak.example/images/logo.svg",
+      "https://desert-peak.example/images/og-hero.jpg"
+    ],
+    "images": []
+  },
+  "onlinePresence": {
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/DesertPeakPlumbing"
+      },
+      {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/company/desert-peak-plumbing"
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/@DesertPeakPlumbing"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/desertpeakplumbing/"
+      }
+    ]
+  },
+  "people": [
+    {
+      "name": "Maria Torres",
+      "title": "Owner & Master Plumber",
+      "gender": null,
+      "description": "Maria has 30 years of experience and still answers the phone herself most mornings."
+    },
+    {
+      "name": "Devon Reyes",
+      "title": "Service Manager",
+      "gender": null,
+      "description": "Devon dispatches our technicians and makes sure every job finishes on time."
+    }
+  ],
+  "offerings": [
+    {
+      "name": "Water Heaters",
+      "category": null,
+      "description": "Whether your tank is leaking or you're ready to go tankless, our technicians install and repair every major brand the same day in most cases.",
+      "features": [
+        "Tank and tankless installation",
+        "Same-day repair for most brands",
+        "Annual flush and anode rod replacement"
+      ],
+      "pricing": "starting at $1,250",
+      "url": "https://desert-peak.example/services/water-heaters"
+    },
+    {
+      "name": "Drain Cleaning",
+      "category": null,
+      "description": "Slow drains and backups get cleared fast with professional hydro-jetting and camera inspection so we can show you exactly what's causing the clog.",
+      "features": [
+        "Hydro-jetting",
+        "Video camera inspection",
+        "Root removal"
+      ],
+      "pricing": "$149 per service call",
+      "url": "https://desert-peak.example/services/drain-cleaning"
+    }
+  ],
+  "extras": {
+    "voiceSamples": [
+      "That's why we give you a flat-rate price before any work begins, and we never charge for overtime on emergencies.",
+      "We're a family-owned team that treats your home like our own.",
+      "Slow drains and backups get cleared fast with professional hydro-jetting and camera inspection so we can show you exactly what's causing the clog.",
+      "Whether your tank is leaking or you're ready to go tankless, our technicians install and repair every major brand the same day in most cases.",
+      "Today our team of 14 licensed technicians serves thousands of homes across the valley."
+    ],
+    "uniqueSellingPoints": [
+      "No overtime charges, ever",
+      "Clean-home promise: boot covers and drop cloths on every job",
+      "2-year warranty on all repairs"
+    ],
+    "testimonials": [
+      {
+        "quote": "They fixed our water heater the same afternoon and explained everything.",
+        "author": "Jen R., Henderson",
+        "rating": null
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Do you charge extra for weekends?",
+        "answer": "No. Our flat-rate prices are the same every day of the week, including holidays."
+      },
+      {
+        "question": "How long does a water heater replacement take?",
+        "answer": "Most replacements are finished in two to four hours, and we haul the old tank away for free."
+      },
+      {
+        "question": "Do you offer financing?",
+        "answer": "Yes. We offer 0% financing for 12 months on approved credit for installations over $1,000."
+      }
+    ],
+    "trustSignals": [
+      "4.9\u2605 average from 312 reviews",
+      "Las Vegas Plumbers You Can Trust Since 1998",
+      "We're a family-owned team that treats your home like our own.",
+      "Licensed, bonded & insured (NV License #0081234)",
+      "Today our team of 14 licensed technicians serves thousands of homes across the valley.",
+      "Maria has 30 years of experience and still answers the phone herself most mornings.",
+      "2-year warranty on all repairs"
+    ],
+    "contentThemes": [],
+    "pressMentions": [
+      "As featured in the Las Vegas Review-Journal's Best of Las Vegas 2025."
+    ],
+    "communityAndValues": [
+      "We believe great service starts with honesty.",
+      "Every spring we donate free water heater flushes to seniors through the Henderson Community Center, and our team volunteers with Habitat for Humanity Las Vegas."
+    ],
+    "seasonalMessaging": [
+      "Summer special: $50 off AC condensate line cleaning through August."
+    ],
+    "contentStarters": [
+      {
+        "app": "MoSocial",
+        "type": "Customer spotlight",
+        "title": "What Jen R., Henderson said about Desert Peak Plumbing",
+        "angle": "Quote the review: \u201cThey fixed our water heater the same afternoon and explained everything.\u201d Pair it with a real job-site photo and thank Jen R., Henderson by first name. End with \u201cGet My Free Estimate\u201d.",
+        "basedOn": [
+          "Testimonial from Jen R., Henderson"
+        ]
+      },
+      {
+        "app": "MoSocial",
+        "type": "Meet the team",
+        "title": "Meet Maria Torres, our Owner & Master Plumber",
+        "angle": "Introduce Maria with their photo and one detail from their bio: \u201cMaria has 30 years of experience and still answers the phone herself most mornings.\u201d. Ask followers to say hi in the comments.",
+        "basedOn": [
+          "Key person: Maria Torres"
+        ]
+      },
+      {
+        "app": "MoSocial",
+        "type": "Service highlight",
+        "title": "Water Heaters: what's included",
+        "angle": "Explain in two lines: \u201cWhether your tank is leaking or you're ready to go tankless, our technicians install and repair every major brand the\u2026\u201d List up to three features: Tank and tankless installation, Same-day repair for most brands and Annual flush and anode rod replacement. Mention \u201cstarting at $1,250\u201d. End with \u201cGet My Free Estimate\u201d.",
+        "basedOn": [
+          "Offering: Water Heaters"
+        ]
+      },
+      {
+        "app": "MoSocial",
+        "type": "Milestone",
+        "title": "28 years serving Las Vegas",
+        "angle": "Celebrate 28 years since 1998. Share an old photo next to a new one and a proof point: \u201c4.9\u2605 average from 312 reviews\u201d.",
+        "basedOn": [
+          "Founded 1998"
+        ]
+      },
+      {
+        "app": "MoSocial",
+        "type": "Seasonal",
+        "title": "Timely reminder",
+        "angle": "Build the post around this offer from the site: \u201cSummer special: $50 off AC condensate line cleaning through August.\u201d. End with \u201cGet My Free Estimate\u201d.",
+        "basedOn": [
+          "Seasonal messaging"
+        ]
+      },
+      {
+        "app": "MoMail",
+        "type": "Offer email",
+        "title": "Subject: starting at $1,250 on Water Heaters",
+        "angle": "Lead with the offer, explain who it's for in two sentences, then one button. End with \u201cGet My Free Estimate\u201d.",
+        "basedOn": [
+          "Offering: Water Heaters",
+          "Pricing: starting at $1,250"
+        ]
+      },
+      {
+        "app": "MoMail",
+        "type": "FAQ email",
+        "title": "Subject: Do you charge extra for weekends?",
+        "angle": "Answer it in three short paragraphs, starting from the site's own answer: \u201cNo. Our flat-rate prices are the same every day of the week, including holidays.\u201d. End with \u201cGet My Free Estimate\u201d.",
+        "basedOn": [
+          "FAQ: Do you charge extra for weekends?"
+        ]
+      },
+      {
+        "app": "MoMail",
+        "type": "Review request",
+        "title": "Subject: How did we do?",
+        "angle": "Thank recent customers, show one existing review as an example (Jen R., Henderson's), and link to the review page.",
+        "basedOn": [
+          "Testimonial from Jen R., Henderson"
+        ]
+      },
+      {
+        "app": "MoMail",
+        "type": "Newsletter",
+        "title": "Subject: This month at Desert Peak Plumbing",
+        "angle": "Three short blocks: one tip about water heaters, one about drain cleaning, and one customer quote or team photo. End with \u201cGet My Free Estimate\u201d.",
+        "basedOn": [
+          "Offering: Water Heaters",
+          "Offering: Drain Cleaning"
+        ]
+      },
+      {
+        "app": "MoBlogs",
+        "type": "Answer article",
+        "title": "Do you charge extra for weekends?",
+        "angle": "Expand the site's answer into a full guide (what it depends on, typical timeline or cost, when to call a pro): \u201cNo. Our flat-rate prices are the same every day of the week, including holidays.\u201d.",
+        "basedOn": [
+          "FAQ: Do you charge extra for weekends?"
+        ]
+      },
+      {
+        "app": "MoBlogs",
+        "type": "Answer article",
+        "title": "How long does a water heater replacement take?",
+        "angle": "Expand the site's answer into a full guide (what it depends on, typical timeline or cost, when to call a pro): \u201cMost replacements are finished in two to four hours, and we haul the old tank away for free.\u201d.",
+        "basedOn": [
+          "FAQ: How long does a water heater replacement take?"
+        ]
+      },
+      {
+        "app": "MoBlogs",
+        "type": "Answer article",
+        "title": "Do you offer financing?",
+        "angle": "Expand the site's answer into a full guide (what it depends on, typical timeline or cost, when to call a pro): \u201cYes. We offer 0% financing for 12 months on approved credit for installations over $1,000.\u201d.",
+        "basedOn": [
+          "FAQ: Do you offer financing?"
+        ]
+      },
+      {
+        "app": "MoBlogs",
+        "type": "Local service guide",
+        "title": "Water Heaters in Las Vegas: what to expect",
+        "angle": "Walk through the process step by step, covering Tank and tankless installation, Same-day repair for most brands and Annual flush and anode rod replacement, and explain \u201cstarting at $1,250\u201d. Use the city name naturally for local search.",
+        "basedOn": [
+          "Offering: Water Heaters",
+          "Service area: Las Vegas"
+        ]
+      },
+      {
+        "app": "MoBlogs",
+        "type": "Local service guide",
+        "title": "Drain Cleaning in Las Vegas: what to expect",
+        "angle": "Walk through the process step by step, covering Hydro-jetting, Video camera inspection and Root removal, and explain \u201c$149 per service call\u201d. Use the city name naturally for local search.",
+        "basedOn": [
+          "Offering: Drain Cleaning",
+          "Service area: Las Vegas"
+        ]
+      }
+    ],
+    "compliance": {
+      "privacyPolicyUrl": "https://desert-peak.example/privacy-policy",
+      "termsUrl": "https://desert-peak.example/terms",
+      "disclaimers": [
+        "Financing is subject to credit approval.",
+        "Terms and conditions apply."
+      ]
+    }
+  },
+  "sources": {
+    "foundation.website": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://desert-peak.example/"
+    },
+    "branding.logos": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://desert-peak.example/"
+    },
+    "extras.trustSignals": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://desert-peak.example/"
+    },
+    "extras.faqs": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://desert-peak.example/"
+    },
+    "foundation.name": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://desert-peak.example/"
+    },
+    "foundation.overview": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://desert-peak.example/"
+    },
+    "foundation.yearFounded": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://desert-peak.example/"
+    },
+    "foundation.mainAddress": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://desert-peak.example/"
+    },
+    "foundation.phone": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://desert-peak.example/"
+    },
+    "foundation.email": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://desert-peak.example/"
+    },
+    "foundation.industry": {
+      "method": "json-ld",
+      "confidence": "medium",
+      "url": "https://desert-peak.example/"
+    },
+    "foundation.altNames": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://desert-peak.example/"
+    },
+    "foundation.serviceLocations": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://desert-peak.example/"
+    },
+    "people": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://desert-peak.example/"
+    },
+    "onlinePresence.socials": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://desert-peak.example/"
+    },
+    "foundation.legalEntityType": {
+      "method": "pattern",
+      "confidence": "medium",
+      "url": "https://desert-peak.example/"
+    },
+    "extras.compliance": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://desert-peak.example/"
+    },
+    "branding.colors": {
+      "method": "css",
+      "confidence": "medium",
+      "url": "https://desert-peak.example/"
+    },
+    "branding.fonts": {
+      "method": "css",
+      "confidence": "high",
+      "url": "https://desert-peak.example/"
+    },
+    "offerings": {
+      "method": "html",
+      "confidence": "medium",
+      "url": "https://desert-peak.example/"
+    },
+    "market.ctas": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://desert-peak.example/"
+    },
+    "market.funnels": {
+      "method": "html",
+      "confidence": "medium",
+      "url": "https://desert-peak.example/"
+    },
+    "market.channels": {
+      "method": "html",
+      "confidence": "medium",
+      "url": "https://desert-peak.example/"
+    },
+    "extras.testimonials": {
+      "method": "html",
+      "confidence": "medium",
+      "url": "https://desert-peak.example/"
+    },
+    "extras.pressMentions": {
+      "method": "html",
+      "confidence": "low",
+      "url": "https://desert-peak.example/"
+    },
+    "extras.communityAndValues": {
+      "method": "html",
+      "confidence": "low",
+      "url": "https://desert-peak.example/"
+    },
+    "extras.seasonalMessaging": {
+      "method": "html",
+      "confidence": "low",
+      "url": "https://desert-peak.example/"
+    },
+    "extras.uniqueSellingPoints": {
+      "method": "html",
+      "confidence": "medium",
+      "url": "https://desert-peak.example/"
+    },
+    "extras.compliance.disclaimers": {
+      "method": "html",
+      "confidence": "medium",
+      "url": "https://desert-peak.example/"
+    },
+    "extras.voiceSamples": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://desert-peak.example/"
+    },
+    "positioning.foundingStory": {
+      "method": "html",
+      "confidence": "medium",
+      "url": "https://desert-peak.example/about"
+    },
+    "positioning.pitch": {
+      "method": "html",
+      "confidence": "low",
+      "url": "https://desert-peak.example/"
+    },
+    "extras.contentStarters": {
+      "method": "derived",
+      "confidence": "medium"
+    }
+  }
+}

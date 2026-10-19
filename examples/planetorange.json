@@ -1,0 +1,558 @@
+{
+  "id": "33d577a6-770a-4392-89fc-00e4328eb3d8",
+  "sourceUrl": "https://www.planetorange.com/",
+  "createdAt": "2026-10-18T22:36:21.429Z",
+  "updatedAt": "2026-10-18T22:36:21.429Z",
+  "scrapedPages": [
+    "https://www.planetorange.com/",
+    "https://www.planetorange.com/about-us/our-location",
+    "https://www.planetorange.com/about-us/concord",
+    "https://www.planetorange.com/contact-us",
+    "https://www.planetorange.com/about-us",
+    "https://www.planetorange.com/featured-news",
+    "https://www.planetorange.com/our-values",
+    "https://www.planetorange.com/about-us/employment",
+    "https://www.planetorange.com/kids-corner",
+    "https://www.planetorange.com/termite-and-pest/san-jose"
+  ],
+  "foundation": {
+    "name": "Planet Orange Pest Control",
+    "overview": "Here at Planet Orange, we are dedicated to developing effective, eco-friendly pest control solutions that are sustainable for you, your community, and the",
+    "website": "https://www.planetorange.com/",
+    "industry": null,
+    "businessModel": null,
+    "companyRole": null,
+    "yearFounded": null,
+    "legalEntityType": null,
+    "employeeCount": null,
+    "mainAddress": "434 Park Ave, San Jose, California 95110",
+    "otherLocations": [],
+    "serviceLocations": [],
+    "altNames": [],
+    "phone": "(800) 767-2643",
+    "email": "info@planetorange.com"
+  },
+  "positioning": {
+    "pitch": null,
+    "foundingStory": null
+  },
+  "market": {
+    "buyers": [],
+    "customerNeeds": null,
+    "idealPersona": null,
+    "industryGroupings": [],
+    "industryOutlook": null,
+    "channels": [
+      "Website",
+      "Phone",
+      "Email"
+    ],
+    "funnels": [
+      "Quote / estimate request form",
+      "Appointment scheduling form",
+      "Content marketing (blog)"
+    ],
+    "ctas": [
+      "Call 1-800-767-2643",
+      "1-800-767-2643",
+      "Call 1-800 767 2643",
+      "Get In Touch",
+      "Schedule A Consultation",
+      "(408) 963-6868",
+      "(408) 963-6867",
+      "(925) 954-4440",
+      "Get An Estimate"
+    ],
+    "suppliers": []
+  },
+  "branding": {
+    "writingStyle": null,
+    "artStyle": null,
+    "fonts": [
+      "Raleway",
+      "Roboto",
+      "Open Sans",
+      "Baskerville"
+    ],
+    "colors": [
+      "#00143c",
+      "#020381",
+      "#2874fc",
+      "#1890d7",
+      "#ffffff",
+      "#000000"
+    ],
+    "logos": [
+      "https://www.planetorange.com/wp-content/uploads/2023/06/logo-mob-version.png",
+      "https://planetorange.com/wp-content/uploads/2023/04/logo.png",
+      "https://www.planetorange.com/wp-content/uploads/2023/03/cropped-planet-orange-favicon-180x180.png"
+    ],
+    "images": [
+      {
+        "url": "https://planetorange.com/wp-content/uploads/2015/05/planet-orange-service-map-1.jpg",
+        "alt": "planet-orange-service-map",
+        "category": "Service",
+        "page": "https://www.planetorange.com/about-us/our-location"
+      },
+      {
+        "url": "https://www.planetorange.com/wp-content/uploads/2023/04/porange-service-map-50pc-1.png",
+        "alt": null,
+        "category": "Service",
+        "page": "https://www.planetorange.com/contact-us"
+      },
+      {
+        "url": "https://www.planetorange.com/wp-content/uploads/2023/05/lady-bug-coloring-book-page-1.png",
+        "alt": null,
+        "category": "Service",
+        "page": "https://www.planetorange.com/kids-corner"
+      },
+      {
+        "url": "https://www.planetorange.com/wp-content/uploads/2023/05/lady-bug-coloring-book-page-2.png",
+        "alt": null,
+        "category": "Service",
+        "page": "https://www.planetorange.com/kids-corner"
+      },
+      {
+        "url": "https://www.planetorange.com/wp-content/uploads/2023/05/lady-bug-coloring-book-page-3.png",
+        "alt": null,
+        "category": "Service",
+        "page": "https://www.planetorange.com/kids-corner"
+      },
+      {
+        "url": "https://www.planetorange.com/wp-content/uploads/2023/05/lady-bug-coloring-book-page-4.png",
+        "alt": null,
+        "category": "Service",
+        "page": "https://www.planetorange.com/kids-corner"
+      },
+      {
+        "url": "https://www.planetorange.com/wp-content/uploads/2023/05/lady-bug-coloring-book-page-5.png",
+        "alt": null,
+        "category": "Service",
+        "page": "https://www.planetorange.com/kids-corner"
+      },
+      {
+        "url": "https://www.planetorange.com/wp-content/uploads/2023/05/lady-bug-coloring-book-page-6.png",
+        "alt": null,
+        "category": "Service",
+        "page": "https://www.planetorange.com/kids-corner"
+      },
+      {
+        "url": "https://www.planetorange.com/wp-content/uploads/2023/06/residential-pest-control.jpg",
+        "alt": null,
+        "category": "Site",
+        "page": "https://www.planetorange.com/"
+      },
+      {
+        "url": "https://www.planetorange.com/wp-content/uploads/2023/06/industrial-pest-control.jpg",
+        "alt": null,
+        "category": "Site",
+        "page": "https://www.planetorange.com/"
+      },
+      {
+        "url": "https://www.planetorange.com/wp-content/uploads/2023/06/commercial-pest-control.jpg",
+        "alt": null,
+        "category": "Site",
+        "page": "https://www.planetorange.com/"
+      },
+      {
+        "url": "https://www.planetorange.com/wp-content/uploads/2023/06/termite-control.jpg",
+        "alt": null,
+        "category": "Site",
+        "page": "https://www.planetorange.com/"
+      },
+      {
+        "url": "https://www.planetorange.com/wp-content/uploads/2023/06/ants.jpg",
+        "alt": null,
+        "category": "Site",
+        "page": "https://www.planetorange.com/"
+      },
+      {
+        "url": "https://www.planetorange.com/wp-content/uploads/2023/06/termites.jpg",
+        "alt": null,
+        "category": "Site",
+        "page": "https://www.planetorange.com/"
+      },
+      {
+        "url": "https://www.planetorange.com/wp-content/uploads/2023/06/rodents.jpg",
+        "alt": null,
+        "category": "Site",
+        "page": "https://www.planetorange.com/"
+      },
+      {
+        "url": "https://www.planetorange.com/wp-content/uploads/2023/06/spiders.jpg",
+        "alt": null,
+        "category": "Site",
+        "page": "https://www.planetorange.com/"
+      },
+      {
+        "url": "https://www.planetorange.com/wp-content/uploads/2023/06/bed-bugs.jpg",
+        "alt": null,
+        "category": "Site",
+        "page": "https://www.planetorange.com/"
+      },
+      {
+        "url": "https://www.planetorange.com/wp-content/uploads/2023/06/silverfish.jpg",
+        "alt": null,
+        "category": "Site",
+        "page": "https://www.planetorange.com/"
+      },
+      {
+        "url": "https://www.planetorange.com/wp-content/uploads/2023/06/cockroaches.jpg",
+        "alt": null,
+        "category": "Site",
+        "page": "https://www.planetorange.com/"
+      },
+      {
+        "url": "https://www.planetorange.com/wp-content/uploads/2023/03/Quality-Pro.png",
+        "alt": null,
+        "category": "Site",
+        "page": "https://www.planetorange.com/"
+      },
+      {
+        "url": "https://www.planetorange.com/wp-content/uploads/2023/03/Home-Advisor-Elite.png",
+        "alt": null,
+        "category": "Site",
+        "page": "https://www.planetorange.com/"
+      },
+      {
+        "url": "https://www.planetorange.com/wp-content/uploads/2023/03/Green-Pro-Certified.png",
+        "alt": null,
+        "category": "Site",
+        "page": "https://www.planetorange.com/"
+      },
+      {
+        "url": "https://www.planetorange.com/wp-content/uploads/2023/03/10-Years-Home-Advisor.png",
+        "alt": null,
+        "category": "Site",
+        "page": "https://www.planetorange.com/"
+      },
+      {
+        "url": "https://www.planetorange.com/wp-content/uploads/2026/10/featured-image-f221cda8-3296-4d46-a9c6-6ddeb6dad587-400x250.jpg",
+        "alt": "California Termite Season and the Warning Signs",
+        "category": "Blog",
+        "page": "https://www.planetorange.com/featured-news"
+      }
+    ]
+  },
+  "onlinePresence": {
+    "socials": []
+  },
+  "people": [
+    {
+      "name": "Aidan Bradshaw",
+      "title": null,
+      "gender": null,
+      "description": null
+    }
+  ],
+  "offerings": [
+    {
+      "name": "Termite Control",
+      "category": null,
+      "description": null,
+      "features": [],
+      "pricing": null,
+      "url": "https://www.planetorange.com/termite-and-pest"
+    },
+    {
+      "name": "Pest Control",
+      "category": null,
+      "description": null,
+      "features": [],
+      "pricing": null,
+      "url": "https://www.planetorange.com/pest-control"
+    },
+    {
+      "name": "Commercial Pest Control",
+      "category": null,
+      "description": null,
+      "features": [],
+      "pricing": null,
+      "url": "https://www.planetorange.com/commercial-pest"
+    }
+  ],
+  "extras": {
+    "voiceSamples": [
+      "We track our whole business in real-time so when you have questions or concerns, we have answers and solutions.",
+      "We appreciate you visiting our site for pest control, fun and education.",
+      "We hope you enjoy this page and discover more about the fascinating world of insects and small wildlife.",
+      "Our approach is based on using the most eco friendly methods possible to ensure that your family is not exposed to harsh chemicals that can affect your family’s health and the environment as a whole.",
+      "We have two locations from which we are able to service a large number of counties and cities throughout the Bay Area:"
+    ],
+    "uniqueSellingPoints": [],
+    "testimonials": [
+      {
+        "quote": "Every tech that comes out is great. No more damn ants! We are on a bimonthly and it's worth it!!!",
+        "author": "Daniel Basques",
+        "rating": null
+      },
+      {
+        "quote": "I had a good experience with this company at every touch point - from scheduling, to the inspection, to the actual service being performed. I would recommend them again.",
+        "author": "Alex Tiberi",
+        "rating": null
+      },
+      {
+        "quote": "We've been working with Planet Orange since first seeing evidence of termites in our place back in 2016. We rest easy knowing they'll treat when we see signs of termites, and their annual inspection will find and treat any termites we don't see. Thanks to our most recent tech, Kirk, for his timely, professional, knowledgeable, friendly and efficient service last week. Thanks to Meghin and Lydia for answering my questions about scheduling and warranty renewal. I recommend Planet Orange to everyone, especially my neighbors!",
+        "author": "Katherine M. Puglisi",
+        "rating": null
+      },
+      {
+        "quote": "This place is amazing came out and helped me with our problem. I would highly recommend this company",
+        "author": "Karmeisha Taylor",
+        "rating": null
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Why Are There So Many Ants in My House?",
+        "answer": "Sep 21, 2026 | Ants, Pest Control"
+      }
+    ],
+    "trustSignals": [
+      "At Planet Orange, our many years of experience with commercial and industrial clients allow us to quickly assess the needs of your business no matter how big or small it may be.",
+      "Thanks to Meghin and Lydia for answering my questions about scheduling and warranty renewal.",
+      "Awards and Accreditations",
+      "Locally owned and operated for over 15 years, Planet Orange has always strived to help you make your living, working and play spaces safer and healthier for everyone in the community.",
+      "planet orange is a fully licensed, bonded and insured general contractor and we guarantee our work for two full years.",
+      "PLANET ORANGE RECEIVES SMALL BUSINESS OF THE YEAR AWARD 2013",
+      "Locally owned and operated, Planet Orange has been awarded a three-year agreement to administer...",
+      "Planet Orange Earns Esteemed Angie’s List Super Service Award for the Fifth Time.",
+      "Planet Orange has earned the service industry's coveted 2014 Angie's List Super Service Award; this reflects an exemplary year of service provided to members of the local services marketplace and consumer review site in 2014.",
+      "Locally owned and operated, Planet Orange was awarded the three-year agreement due to..."
+    ],
+    "contentThemes": [
+      "California Termite Season and the Warning Signs",
+      "The Difference Between Fleas and Bed Bugs",
+      "Five DIY, Eco-Friendly Ant Repellant Solutions",
+      "Top 10 Reasons to Hire a Pest Control Professional",
+      "10 Tips to Safeguard Your Home Against Summer Pests (Solve the Problem Before it Starts)",
+      "10 Most Common Household Pests – and Where They Like to Hide",
+      "Termites vs Flying Ants: Bay Area Pest Control Guide",
+      "Ant Infestation Triggers: Northern California Case Study",
+      "Professional Pest Control: Knowing When to Call the Pros",
+      "Office Pest Problems: Keep Your Workplace Pest-Free",
+      "Ignoring Pest Problems: Hidden Dangers for Your Home",
+      "Mosquito Control Made Simple: A Bay Area Home Guide"
+    ],
+    "pressMentions": [],
+    "communityAndValues": [
+      "Here at Planet Orange, we are dedicated to developing effective, eco-friendly pest control solutions that are sustainable for you, your community, and the planet.",
+      "As a leading provider of pest control in the Greater Bay Area and beyond, we believe that the places where you live, work, and play should be as safe and green as possible.",
+      "Our approach is based on using the most eco friendly methods possible to ensure that your family is not exposed to harsh chemicals that can affect your family’s health and the environment as a whole.",
+      "Planet Orange has been doing eco-friendly business since before eco-friendly was a trending term.",
+      "Locally owned and operated for over 15 years, Planet Orange has always strived to help you make your living, working and play spaces safer and healthier for everyone in the community.",
+      "Ant Infestation Triggers in Northern California The arid, prolonged summer heat of Northern California creates a stark environmental contrast to the"
+    ],
+    "seasonalMessaging": [],
+    "contentStarters": [
+      {
+        "app": "MoSocial",
+        "type": "Customer spotlight",
+        "title": "What Daniel Basques said about Planet Orange Pest Control",
+        "angle": "Quote the review: “Every tech that comes out is great. No more damn ants! We are on a bimonthly and it's worth it!!!” Pair it with a real job-site photo and thank Daniel Basques by first name. End with “Call 1-800-767-2643”.",
+        "basedOn": [
+          "Testimonial from Daniel Basques"
+        ]
+      },
+      {
+        "app": "MoSocial",
+        "type": "Customer spotlight",
+        "title": "What Alex Tiberi said about Planet Orange Pest Control",
+        "angle": "Quote the review: “I had a good experience with this company at every touch point - from scheduling, to the inspection, to the actual service being performed.…” Pair it with a real job-site photo and thank Alex Tiberi by first name. End with “Call 1-800-767-2643”.",
+        "basedOn": [
+          "Testimonial from Alex Tiberi"
+        ]
+      },
+      {
+        "app": "MoSocial",
+        "type": "Service highlight",
+        "title": "Termite Control: what's included",
+        "angle": "End with “Call 1-800-767-2643”.",
+        "basedOn": [
+          "Offering: Termite Control"
+        ]
+      },
+      {
+        "app": "MoMail",
+        "type": "FAQ email",
+        "title": "Subject: Why Are There So Many Ants in My House?",
+        "angle": "Answer it in three short paragraphs, starting from the site's own answer: “Sep 21, 2026 | Ants, Pest Control”. End with “Call 1-800-767-2643”.",
+        "basedOn": [
+          "FAQ: Why Are There So Many Ants in My House?"
+        ]
+      },
+      {
+        "app": "MoMail",
+        "type": "Review request",
+        "title": "Subject: How did we do?",
+        "angle": "Thank recent customers, show one existing review as an example (Daniel Basques's), and link to the review page.",
+        "basedOn": [
+          "Testimonial from Daniel Basques"
+        ]
+      },
+      {
+        "app": "MoMail",
+        "type": "Newsletter",
+        "title": "Subject: This month at Planet Orange Pest Control",
+        "angle": "Three short blocks: one tip about termite control, one about pest control, and one customer quote or team photo. End with “Call 1-800-767-2643”.",
+        "basedOn": [
+          "Offering: Termite Control",
+          "Offering: Pest Control"
+        ]
+      },
+      {
+        "app": "MoBlogs",
+        "type": "Answer article",
+        "title": "Why Are There So Many Ants in My House?",
+        "angle": "Expand the site's answer into a full guide (what it depends on, typical timeline or cost, when to call a pro): “Sep 21, 2026 | Ants, Pest Control”.",
+        "basedOn": [
+          "FAQ: Why Are There So Many Ants in My House?"
+        ]
+      },
+      {
+        "app": "MoBlogs",
+        "type": "Local service guide",
+        "title": "Termite Control: what to expect",
+        "angle": "Walk through the process step by step. Use the city name naturally for local search.",
+        "basedOn": [
+          "Offering: Termite Control"
+        ]
+      },
+      {
+        "app": "MoBlogs",
+        "type": "Local service guide",
+        "title": "Pest Control: what to expect",
+        "angle": "Walk through the process step by step. Use the city name naturally for local search.",
+        "basedOn": [
+          "Offering: Pest Control"
+        ]
+      },
+      {
+        "app": "MoBlogs",
+        "type": "Comparison",
+        "title": "Termite Control vs. Pest Control: which do you need?",
+        "angle": "Compare who each is for, using only the details on the site.",
+        "basedOn": [
+          "Offering: Termite Control",
+          "Offering: Pest Control"
+        ]
+      }
+    ],
+    "compliance": {
+      "privacyPolicyUrl": null,
+      "termsUrl": null,
+      "disclaimers": []
+    }
+  },
+  "sources": {
+    "foundation.website": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://www.planetorange.com/"
+    },
+    "branding.logos": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://www.planetorange.com/termite-and-pest/san-jose"
+    },
+    "foundation.name": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://www.planetorange.com/"
+    },
+    "foundation.mainAddress": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://www.planetorange.com/"
+    },
+    "people": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://www.planetorange.com/"
+    },
+    "foundation.phone": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://www.planetorange.com/"
+    },
+    "foundation.email": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://www.planetorange.com/about-us/our-location"
+    },
+    "branding.colors": {
+      "method": "css",
+      "confidence": "medium",
+      "url": "https://www.planetorange.com/"
+    },
+    "branding.fonts": {
+      "method": "css",
+      "confidence": "high",
+      "url": "https://www.planetorange.com/"
+    },
+    "offerings": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://www.planetorange.com/"
+    },
+    "market.ctas": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://www.planetorange.com/"
+    },
+    "market.funnels": {
+      "method": "html",
+      "confidence": "medium",
+      "url": "https://www.planetorange.com/"
+    },
+    "market.channels": {
+      "method": "html",
+      "confidence": "medium",
+      "url": "https://www.planetorange.com/"
+    },
+    "extras.contentThemes": {
+      "method": "html",
+      "confidence": "low",
+      "url": "https://www.planetorange.com/"
+    },
+    "extras.testimonials": {
+      "method": "html",
+      "confidence": "medium",
+      "url": "https://www.planetorange.com/"
+    },
+    "extras.faqs": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://www.planetorange.com/"
+    },
+    "extras.trustSignals": {
+      "method": "html",
+      "confidence": "medium",
+      "url": "https://www.planetorange.com/"
+    },
+    "extras.communityAndValues": {
+      "method": "html",
+      "confidence": "low",
+      "url": "https://www.planetorange.com/"
+    },
+    "extras.voiceSamples": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://www.planetorange.com/"
+    },
+    "branding.images": {
+      "method": "html",
+      "confidence": "medium",
+      "url": "https://www.planetorange.com/"
+    },
+    "foundation.overview": {
+      "method": "meta",
+      "confidence": "medium",
+      "url": "https://www.planetorange.com/"
+    },
+    "extras.contentStarters": {
+      "method": "derived",
+      "confidence": "medium"
+    }
+  }
+}

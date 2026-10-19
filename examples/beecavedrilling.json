@@ -1,0 +1,769 @@
+{
+  "id": "8ecece99-e8b8-49b2-a48e-b7de928d9f59",
+  "sourceUrl": "https://www.beecavedrilling.com/",
+  "createdAt": "2026-10-18T22:36:19.276Z",
+  "updatedAt": "2026-10-18T22:36:19.276Z",
+  "scrapedPages": [
+    "https://www.beecavedrilling.com/",
+    "https://www.beecavedrilling.com/troubleshooting/home",
+    "https://www.beecavedrilling.com/staffbios",
+    "https://www.beecavedrilling.com/testimonials",
+    "https://www.beecavedrilling.com/water-well-system",
+    "https://www.beecavedrilling.com/companyinfo",
+    "https://www.beecavedrilling.com/residential-and-commercial-well-drilling",
+    "https://www.beecavedrilling.com/permitting",
+    "https://www.beecavedrilling.com/contact"
+  ],
+  "foundation": {
+    "name": "Bee Cave Drilling",
+    "overview": "Service Austin & The Texas Hill Country in water well installation, inspection, & maintenance.",
+    "website": "https://www.beecavedrilling.com/",
+    "industry": "Home And Construction Business",
+    "businessModel": null,
+    "companyRole": null,
+    "yearFounded": 1980,
+    "legalEntityType": null,
+    "employeeCount": null,
+    "mainAddress": "185 Angel Fire Rd, Dripping Springs, Texas 78620",
+    "otherLocations": [],
+    "serviceLocations": [],
+    "altNames": [],
+    "phone": "(512) 894-4221",
+    "email": null
+  },
+  "positioning": {
+    "pitch": "High Quality Water Wells & Repair For The Texas Hill Country. Since its inception in 1980, Bee Cave Drilling, a family-owned and operated company, has been dedicated to providing exemplary well-drilling services to the Texas Hill Country and its surrounding regions, including notable areas such as Dripping Springs and Burnet.",
+    "foundingStory": null
+  },
+  "market": {
+    "buyers": [],
+    "customerNeeds": null,
+    "idealPersona": null,
+    "industryGroupings": [],
+    "industryOutlook": null,
+    "channels": [
+      "Website",
+      "Phone"
+    ],
+    "funnels": [
+      "Appointment scheduling form",
+      "Financing options",
+      "Content marketing (blog)",
+      "Free estimate / consultation offer"
+    ],
+    "ctas": [
+      "Request Estimate",
+      "(512) 894-4221",
+      "(866) 894-4221",
+      "(512) 515-3004",
+      "Learn More",
+      "Call Us",
+      "Contact Request",
+      "Get A Free Estimate",
+      "Talk to a Project Manager",
+      "Get My Payment Options",
+      "CONTACT US WITH YOUR QUESTION",
+      "GET MY FREE QUOTE"
+    ],
+    "suppliers": []
+  },
+  "branding": {
+    "writingStyle": null,
+    "artStyle": null,
+    "fonts": [
+      "DM Serif Text",
+      "Poppins",
+      "Open Sans",
+      "Lucida"
+    ],
+    "colors": [
+      "#392e4d",
+      "#121961",
+      "#112337",
+      "#4e93e8",
+      "#000000",
+      "#ffffff"
+    ],
+    "logos": [
+      "https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo.png",
+      "https://www.beecavedrilling.com/wp-content/uploads/2021/05/logo-2021-horizontal.png",
+      "https://www.beecavedrilling.com/wp-content/uploads/2022/11/cropped-logo-2021-horizontal-180x180.png",
+      "https://www.beecavedrilling.com/wp-content/uploads/2021/06/company-photo-2019-1024x576.jpg"
+    ],
+    "images": [
+      {
+        "url": "https://www.beecavedrilling.com/wp-content/uploads/2024/07/Company-Photo2024.jpg",
+        "alt": null,
+        "category": "Team",
+        "page": "https://www.beecavedrilling.com/"
+      },
+      {
+        "url": "https://www.beecavedrilling.com/wp-content/uploads/2021/07/storage-tank-1.jpg",
+        "alt": null,
+        "category": "Service",
+        "page": "https://www.beecavedrilling.com/water-well-system"
+      },
+      {
+        "url": "https://www.beecavedrilling.com/wp-content/uploads/2021/06/rex-and-jim.png",
+        "alt": null,
+        "category": "Service",
+        "page": "https://www.beecavedrilling.com/companyinfo"
+      },
+      {
+        "url": "https://www.beecavedrilling.com/wp-content/uploads/2022/08/drilling2.jpg",
+        "alt": null,
+        "category": "Service",
+        "page": "https://www.beecavedrilling.com/residential-and-commercial-well-drilling"
+      }
+    ]
+  },
+  "onlinePresence": {
+    "socials": [
+      {
+        "platform": "yelp",
+        "url": "https://www.yelp.com/biz/bee-cave-drilling-dripping-springs-2"
+      },
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/BeeCaveDrilling"
+      }
+    ]
+  },
+  "people": [
+    {
+      "name": "Jim Blair",
+      "title": "President",
+      "gender": null,
+      "description": null,
+      "photo": "https://www.beecavedrilling.com/wp-content/uploads/2021/06/jim.jpeg"
+    },
+    {
+      "name": "Melanie Johnson",
+      "title": "Director of Project Administration",
+      "gender": null,
+      "description": null,
+      "photo": "https://www.beecavedrilling.com/wp-content/uploads/2021/06/melanie-johnson.jpg"
+    },
+    {
+      "name": "Nicole Duran",
+      "title": "Assistant Project Administrator",
+      "gender": null,
+      "description": null,
+      "photo": "https://www.beecavedrilling.com/wp-content/uploads/2024/01/Nicole-Duran.jpg"
+    },
+    {
+      "name": "Abby Evans",
+      "title": "Director of Creative Marketing",
+      "gender": null,
+      "description": null,
+      "photo": "https://www.beecavedrilling.com/wp-content/uploads/2021/06/abby-evans.jpg"
+    },
+    {
+      "name": "Greg Svetlik",
+      "title": "Senior Project Manager",
+      "gender": null,
+      "description": null,
+      "photo": "https://www.beecavedrilling.com/wp-content/uploads/2021/06/greg-svetlik.jpg"
+    },
+    {
+      "name": "Chris Wilson",
+      "title": "Project Manager",
+      "gender": null,
+      "description": null,
+      "photo": "https://www.beecavedrilling.com/wp-content/uploads/2026/05/chris-wilson.webp"
+    },
+    {
+      "name": "Lyle Williams",
+      "title": "Project Manager",
+      "gender": null,
+      "description": null,
+      "photo": "https://www.beecavedrilling.com/wp-content/uploads/2021/06/lyle-williams.jpg"
+    },
+    {
+      "name": "Mike Scott",
+      "title": "Director of Drilling",
+      "gender": null,
+      "description": null,
+      "photo": "https://www.beecavedrilling.com/wp-content/uploads/2021/06/mike-scott.jpg"
+    },
+    {
+      "name": "Austin Cook",
+      "title": "Lead Driller",
+      "gender": null,
+      "description": null,
+      "photo": "https://www.beecavedrilling.com/wp-content/uploads/2021/06/austin-cook.jpg"
+    },
+    {
+      "name": "Alex Thompson",
+      "title": "Director of Service",
+      "gender": null,
+      "description": null,
+      "photo": "https://www.beecavedrilling.com/wp-content/uploads/2021/06/alex-thompson.jpg"
+    },
+    {
+      "name": "Zach Hernandez",
+      "title": "Development and Training Coordinator",
+      "gender": null,
+      "description": null,
+      "photo": "https://www.beecavedrilling.com/wp-content/uploads/2021/06/zach-hernandez.jpg"
+    },
+    {
+      "name": "Hunter Comstock",
+      "title": "Technician 2",
+      "gender": null,
+      "description": null,
+      "photo": "https://www.beecavedrilling.com/wp-content/uploads/2021/06/hunter-comstock.jpg"
+    },
+    {
+      "name": "Dante Molina",
+      "title": "Technician 2",
+      "gender": null,
+      "description": null,
+      "photo": "https://www.beecavedrilling.com/wp-content/uploads/2022/08/dante.jpg"
+    },
+    {
+      "name": "Tanner Logan",
+      "title": "Diagnostic Technician",
+      "gender": null,
+      "description": null,
+      "photo": "https://www.beecavedrilling.com/wp-content/uploads/2021/06/tanner-logan.jpg"
+    },
+    {
+      "name": "Ethan Perry",
+      "title": "Diagnostic Technician",
+      "gender": null,
+      "description": null,
+      "photo": "https://www.beecavedrilling.com/wp-content/uploads/2021/06/ethan-perry.jpg"
+    }
+  ],
+  "offerings": [
+    {
+      "name": "Well Drilling",
+      "category": null,
+      "description": "At Bee Cave Drilling, we specialize in designing and drilling high-quality water wells with professionalism and excellence. From permitting to final hookup, our in-house project managers guide each step of the process, ensuring a smooth and transparent experience. With modern rigs, clear pricing, and financing options for residential customers, we deliver dependable service and expert craftsmanship—without the surprises.",
+      "features": [
+        "$0 Down Options",
+        "Low Monthly Payments",
+        "Fast, Easy Application",
+        "No impact to credit score to check rates"
+      ],
+      "pricing": "Free Estimate",
+      "url": "https://www.beecavedrilling.com/residential-and-commercial-well-drilling"
+    },
+    {
+      "name": "Permitting",
+      "category": null,
+      "description": "Regulations are constantly changing. This reflects our current understanding of the regulations and permits required for you to drill a well AND use the water from it for your home or business, but this may not be up to date. We will do our best to keep you apprised of the latest requirements, but ultimately it is up to you as the homeowner to make sure you are in compliance with all local regulations.",
+      "features": [],
+      "pricing": null,
+      "url": "https://www.beecavedrilling.com/permitting"
+    },
+    {
+      "name": "Well Head Completion Options",
+      "category": null,
+      "description": null,
+      "features": [],
+      "pricing": null,
+      "url": "https://www.beecavedrilling.com/well-head-completion-options"
+    },
+    {
+      "name": "Well head location and cementing requirements",
+      "category": null,
+      "description": null,
+      "features": [],
+      "pricing": null,
+      "url": "https://www.beecavedrilling.com/well-head-location-and-cementing-requirements"
+    },
+    {
+      "name": "Borehole completion methods & casing options",
+      "category": null,
+      "description": null,
+      "features": [],
+      "pricing": null,
+      "url": "https://www.beecavedrilling.com/borehole-completion-methods-casing-options"
+    },
+    {
+      "name": "Mud Control & Site Protection",
+      "category": null,
+      "description": null,
+      "features": [],
+      "pricing": null,
+      "url": "https://www.beecavedrilling.com/mud-control-site-protection"
+    },
+    {
+      "name": "Pumping Systems",
+      "category": null,
+      "description": null,
+      "features": [],
+      "pricing": null,
+      "url": "https://www.beecavedrilling.com/pumping-systems"
+    },
+    {
+      "name": "Standard Pressure Water Well",
+      "category": null,
+      "description": "This has been the tried and true system for generations. It works in almost every situation. But it does have some drawbacks.",
+      "features": [],
+      "pricing": null,
+      "url": "https://www.beecavedrilling.com/water-well-system"
+    },
+    {
+      "name": "Constant Pressure",
+      "category": null,
+      "description": null,
+      "features": [],
+      "pricing": null,
+      "url": "https://www.beecavedrilling.com/constant-pressure"
+    },
+    {
+      "name": "Storage Tank Systems",
+      "category": null,
+      "description": null,
+      "features": [],
+      "pricing": null,
+      "url": "https://www.beecavedrilling.com/storage-tank-systems"
+    },
+    {
+      "name": "Solar Pumping Systems",
+      "category": null,
+      "description": null,
+      "features": [],
+      "pricing": null,
+      "url": "https://www.beecavedrilling.com/solar-pumping-systems"
+    },
+    {
+      "name": "Well Inspections",
+      "category": null,
+      "description": null,
+      "features": [],
+      "pricing": null,
+      "url": "https://www.beecavedrilling.com/well-inspections"
+    },
+    {
+      "name": "Well Maintenance Contracts",
+      "category": null,
+      "description": null,
+      "features": [],
+      "pricing": null,
+      "url": "https://www.beecavedrilling.com/well-maintenance"
+    },
+    {
+      "name": "Water Well Service",
+      "category": null,
+      "description": null,
+      "features": [],
+      "pricing": null,
+      "url": "https://www.beecavedrilling.com/troubleshooting/home"
+    },
+    {
+      "name": "Public Supply Wells",
+      "category": null,
+      "description": null,
+      "features": [],
+      "pricing": null,
+      "url": "https://www.beecavedrilling.com/public-supply-wells"
+    },
+    {
+      "name": "Remote Monitoring",
+      "category": null,
+      "description": null,
+      "features": [],
+      "pricing": null,
+      "url": "https://www.beecavedrilling.com/remote-monitoring"
+    }
+  ],
+  "extras": {
+    "voiceSamples": [
+      "Whether you're looking to initiate a new project or seeking maintenance on an existing well, our experienced staff is ready to provide efficient and timely solutions.",
+      "Don't hesitate to connect with us and discover how our expertise can benefit both your residential and commercial needs.",
+      "Our skilled professionals conduct thorough assessments to identify potential issues, ensuring your well meets safety standards.",
+      "With a commitment to quality workmanship and prompt service, we restore your well’s functionality, minimizing disruptions to your water supply.",
+      "It’s the little things that make the difference, as we strive to make you a satisfied customer."
+    ],
+    "uniqueSellingPoints": [],
+    "testimonials": [
+      {
+        "quote": "I want to thank Anthony for helping me work with Bee Cave Drilling. Soon after getting his first phone call he became my main point of contact for the entire process. He was extremely professional, patient, and kind throughout everything. He is a great communicator and took my phone calls and answered my texts very promptly. I was very impressed with this. I had been without water for several days and had been worried about possible electrical issues causing a fire. Anthony explained everything very well and identified the issue and fixed it for me. He first tried a cheaper option for me before having to replace my booster pump. I appreciate that he tried that first. He was a pleasure to talk with. I will not hesitate to recommend him to anyone, and I will not hesitate to call and request him for any future water needs. Kay C.",
+        "author": "Kay C.",
+        "rating": null
+      },
+      {
+        "quote": "The crew at Bee Cave Drilling replaced our pressure tank and assessed our well production with a series of tests. Every individual I met with was an absolute pleasure to deal with, they were each courteous, attentive to my questions, and very trustworthy, not to mention prompt on the job. I would give them 10 stars, and recommend them without hesitation!!!!! J K",
+        "author": "J K",
+        "rating": null
+      },
+      {
+        "quote": "Bee Cave Drilling offers exceptional service and unmatched dedication. From the very start I have been in communication with Ross, who listened to my needs, happily answered a zillion questions, and always easy to get ahold of. Then I met onsite with Chris who took a look at our old well that is on my property, and walked me through all of our options. He has been refreshingly positive and committed to get the job done for us. A couple short weeks later their driller, Austin, and his crew showed up to site ready to work and do whatever it takes to ensure the drilling was not only efficient but also environmentally responsible. Ross, Chris, Austin, and everyone else I have been in contact with has been a blessing to our family. While other companies shielded away from the complexities of my project, this team embraced the challenge with enthusiasm and confidence. They are skilled professionals who are experts at their craft. If you are seeking a team of professionals who will treat your project with the utmost respect and deliver results that surpass all expectations, look no further! Jeanette Messina",
+        "author": "Jeanette Messina",
+        "rating": null
+      },
+      {
+        "quote": "Excellent service and expertise! My assigned technician Ethan worked with his team to figure out a complex problem with my pump. He delivered a great solution for my specific problem. I’ve been a customer for 10 years. I highly recommend Bee Cave Drilling! Charly Simmons",
+        "author": "Charly Simmons",
+        "rating": null
+      },
+      {
+        "quote": "We have had several times we needed help with our well or our pressure pump. Our technician, Dante, has been wonderful. He explains what is going on, what he will do to fix it and then takes care of our problem. The most recent was our well wasn’t able to keep up with our demand. He showed us how to use the reserve setting and he calibrated the sensors. Drew Dutton",
+        "author": "Drew Dutton",
+        "rating": null
+      },
+      {
+        "quote": "Shawn and Kevin worked all day in the heat and then stayed until 9pm to get our well pump replaced and our water back on. Not many businesses or contractors putting those kind of hours in to get the job done! I’m very happy with these guys. Will use again! Go Around",
+        "author": "Go Around",
+        "rating": null
+      },
+      {
+        "quote": "I highly recommend Ross and Bee Cave Drilling for any well-related work! They installed a large storage tank and jet pump, with all the related re-plumbing and electrical work. They were very responsive and communicated every detail in a timely fashion. Finally, a company that does exactly what they said they would do! They were very respectful of our property and very enjoyable to work with. Not the cheapest, but clearly the best – you get what you pay for! Bill Peace",
+        "author": "Bill Peace",
+        "rating": null
+      },
+      {
+        "quote": "I want to give my many thanks and sincere appreciation to Kevin and the company he works for: Bee Cave Drilling, Inc. With a week of deep freeze, my well stopped working. When I called around and asked for help, ONLY Bee Cave Drilling called back within 20min. So far, no other companies have bothered to return my call. This shows a huge difference on customer service front between Bee Cave Drilling and others! Their tech Kevin guided me through potential issues and possible solutions to my well problem. Surely enough, I was able to resolve the my well problem with their advice! The joy of having water again can’t be described in a few words. When you need a reliable service, particularly a critical service, the key is to find a company you can rely on. Bee Cave Drilling is one that holds their promises and deliver beyond customer’s expectation! Thank you guys!! Zhu Wang",
+        "author": "Zhu Wang",
+        "rating": null
+      },
+      {
+        "quote": "I highly recommend Ross at Bee Cave Drilling! Ross and team were great to work with, very communicative, professional, and are all around good people. We received quotes from several companies, but ultimately decided to work with Bee Cave, because of their price transparency and the peace of mind that they drill to the bottom of the water table— not only until they hit water. Ross from Bee Cave provided an initial quote to drill our well and set the pump, and gave us an appropriate date that was a few months out (they’re busy, but worth the wait). On drilling day, Ross notified us how far down they had to drill and informed us that they would be cutting a several thousand dollars off of our bill because they didn’t have to drill as far as they planned. We really appreciated how honest, informative, and prompt these guys were and will call on them again for any well/pump needs. Maghan Ellington",
+        "author": "Maghan Ellington",
+        "rating": null
+      },
+      {
+        "quote": "Very professional crew of drillers and pump installers. Ross was very easy to reach with any questions. They did everything I asked for and and everything they said they would do. Steven Sanchez",
+        "author": "Steven Sanchez",
+        "rating": null
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How long does drilling take?",
+        "answer": "Most residential wells are completed in days; larger or commercial systems vary by depth and complexity."
+      },
+      {
+        "question": "What’s included in the quote?",
+        "answer": "Design, drilling, casing, cementing, testing, and clear line items—plus optional water treatment and service plans."
+      },
+      {
+        "question": "Do you offer maintenance or service after drilling?",
+        "answer": "Yes—ongoing inspections, yield checks, and wellhead service are available."
+      },
+      {
+        "question": "Can you estimate my well depth and yield?",
+        "answer": "We use local logs, geological data, and on-site assessment to set expectations before we drill."
+      },
+      {
+        "question": "What size rig do you use and will it damage my property?",
+        "answer": "We plan access in advance and use protective measures and no-spill options to keep your property clean."
+      }
+    ],
+    "trustSignals": [
+      "Our expert team specializes in precision water drilling, utilizing state-of-the-art technology and years of experience to access pristine underground water sources.",
+      "Licensed by Texas Department of Licensing and Regulation.",
+      "Christy is a certified Ministry Insights counselor.",
+      "56008 CKPW) is licensed by the Texas Department of Licensing and Regulation as a Water Well Driller with designations in water wells and closed loop geothermal wells, and as a Pump Installer with designations in single phase and three phase pumps.",
+      "Licensed by the Texas Department of Licensing and Regulation as a Water Well Driller and as a Pump Installer with designations in single phase and three phase pumps (Lic.",
+      "Mike has been in the water well business since 2011.",
+      "Other Interesting Facts: I was in the US Army for 6 years, and I have been in the water well industry since 2012.",
+      "We have worked with Greg Svetlik since 2016.",
+      "Top Rated by Local Homeowners & Contractors • 45+ Years in Business • Licensed & Insured"
+    ],
+    "contentThemes": [
+      "Our Well Services",
+      "Service Crew",
+      "Service Apprentices",
+      "Our Drilling Services",
+      "Irrigation & Industrial Wells",
+      "Air Hammer & Air Rotary",
+      "Custom Design & Proposal",
+      "Drilling & Construction",
+      "Testing & Handover",
+      "Learn More About Wells and How We Drill",
+      "Forms & Permits",
+      "Permitting and Regulations"
+    ],
+    "pressMentions": [],
+    "communityAndValues": [
+      "For a span of over forty years, this company has been an active participant in the community, expertly catering to the needs of its residents.",
+      "Communities rely on us for safe and sustainable public water supply solutions.",
+      "Bee Cave Drilling specializes in designing, drilling, and maintaining public supply wells that meet rigorous health and environmental standards.",
+      "Here’s what our incredible community of customers have to say about their experience with us.",
+      "As a deacon in his church, Jim is involved in many ministry projects serving the local community.",
+      "A couple short weeks later their driller, Austin, and his crew showed up to site ready to work and do whatever it takes to ensure the drilling was not only efficient but also environmentally responsible."
+    ],
+    "seasonalMessaging": [],
+    "contentStarters": [
+      {
+        "app": "MoSocial",
+        "type": "Customer spotlight",
+        "title": "What Kay C. said about Bee Cave Drilling",
+        "angle": "Quote the review: “I want to thank Anthony for helping me work with Bee Cave Drilling. Soon after getting his first phone call he became my main point of…” Pair it with a real job-site photo and thank Kay C. by first name. End with “Request Estimate”.",
+        "basedOn": [
+          "Testimonial from Kay C."
+        ]
+      },
+      {
+        "app": "MoSocial",
+        "type": "Customer spotlight",
+        "title": "What J K said about Bee Cave Drilling",
+        "angle": "Quote the review: “The crew at Bee Cave Drilling replaced our pressure tank and assessed our well production with a series of tests. Every individual I met…” Pair it with a real job-site photo and thank J K by first name. End with “Request Estimate”.",
+        "basedOn": [
+          "Testimonial from J K"
+        ]
+      },
+      {
+        "app": "MoSocial",
+        "type": "Meet the team",
+        "title": "Meet Jim Blair, our President",
+        "angle": "Introduce Jim with their photo. Ask followers to say hi in the comments.",
+        "basedOn": [
+          "Key person: Jim Blair"
+        ]
+      },
+      {
+        "app": "MoSocial",
+        "type": "Service highlight",
+        "title": "Well Drilling: what's included",
+        "angle": "Explain in two lines: “At Bee Cave Drilling, we specialize in designing and drilling high-quality water wells with professionalism and…” List up to three features: $0 Down Options, Low Monthly Payments and Fast, Easy Application. Mention “Free Estimate”. End with “Request Estimate”.",
+        "basedOn": [
+          "Offering: Well Drilling"
+        ]
+      },
+      {
+        "app": "MoSocial",
+        "type": "Milestone",
+        "title": "46 years serving our community",
+        "angle": "Celebrate 46 years since 1980. Share an old photo next to a new one and a proof point: “Our expert team specializes in precision water drilling, utilizing state-of-the-art technology and…”.",
+        "basedOn": [
+          "Founded 1980"
+        ]
+      },
+      {
+        "app": "MoMail",
+        "type": "Offer email",
+        "title": "Subject: Free Estimate on Well Drilling",
+        "angle": "Lead with the offer, explain who it's for in two sentences, then one button. End with “Request Estimate”.",
+        "basedOn": [
+          "Offering: Well Drilling",
+          "Pricing: Free Estimate"
+        ]
+      },
+      {
+        "app": "MoMail",
+        "type": "FAQ email",
+        "title": "Subject: How long does drilling take?",
+        "angle": "Answer it in three short paragraphs, starting from the site's own answer: “Most residential wells are completed in days; larger or commercial systems vary by depth and complexity.”. End with “Request Estimate”.",
+        "basedOn": [
+          "FAQ: How long does drilling take?"
+        ]
+      },
+      {
+        "app": "MoMail",
+        "type": "Review request",
+        "title": "Subject: How did we do?",
+        "angle": "Thank recent customers, show one existing review as an example (Kay C.'s), and link to the review page.",
+        "basedOn": [
+          "Testimonial from Kay C."
+        ]
+      },
+      {
+        "app": "MoMail",
+        "type": "Newsletter",
+        "title": "Subject: This month at Bee Cave Drilling",
+        "angle": "Three short blocks: one tip about well drilling, one about permitting, and one customer quote or team photo. End with “Request Estimate”.",
+        "basedOn": [
+          "Offering: Well Drilling",
+          "Offering: Permitting"
+        ]
+      },
+      {
+        "app": "MoBlogs",
+        "type": "Answer article",
+        "title": "How long does drilling take?",
+        "angle": "Expand the site's answer into a full guide (what it depends on, typical timeline or cost, when to call a pro): “Most residential wells are completed in days; larger or commercial systems vary by depth and complexity.”.",
+        "basedOn": [
+          "FAQ: How long does drilling take?"
+        ]
+      },
+      {
+        "app": "MoBlogs",
+        "type": "Answer article",
+        "title": "What’s included in the quote?",
+        "angle": "Expand the site's answer into a full guide (what it depends on, typical timeline or cost, when to call a pro): “Design, drilling, casing, cementing, testing, and clear line items—plus optional water treatment and service plans.”.",
+        "basedOn": [
+          "FAQ: What’s included in the quote?"
+        ]
+      },
+      {
+        "app": "MoBlogs",
+        "type": "Answer article",
+        "title": "Do you offer maintenance or service after drilling?",
+        "angle": "Expand the site's answer into a full guide (what it depends on, typical timeline or cost, when to call a pro): “Yes—ongoing inspections, yield checks, and wellhead service are available.”.",
+        "basedOn": [
+          "FAQ: Do you offer maintenance or service after drilling?"
+        ]
+      },
+      {
+        "app": "MoBlogs",
+        "type": "Local service guide",
+        "title": "Well Drilling: what to expect",
+        "angle": "Walk through the process step by step, covering $0 Down Options, Low Monthly Payments and Fast, Easy Application, and explain “Free Estimate”. Use the city name naturally for local search.",
+        "basedOn": [
+          "Offering: Well Drilling"
+        ]
+      },
+      {
+        "app": "MoBlogs",
+        "type": "Local service guide",
+        "title": "Permitting: what to expect",
+        "angle": "Walk through the process step by step. Use the city name naturally for local search.",
+        "basedOn": [
+          "Offering: Permitting"
+        ]
+      },
+      {
+        "app": "MoBlogs",
+        "type": "Comparison",
+        "title": "Well Drilling vs. Well Inspections: which do you need?",
+        "angle": "Compare who each is for, using only the details on the site (both service descriptions are in the knowledge base).",
+        "basedOn": [
+          "Offering: Well Drilling",
+          "Offering: Well Inspections"
+        ]
+      }
+    ],
+    "compliance": {
+      "privacyPolicyUrl": "https://www.beecavedrilling.com/privacy-policy-2/",
+      "termsUrl": null,
+      "disclaimers": []
+    }
+  },
+  "sources": {
+    "foundation.website": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://www.beecavedrilling.com/"
+    },
+    "branding.logos": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://www.beecavedrilling.com/contact"
+    },
+    "foundation.name": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://www.beecavedrilling.com/"
+    },
+    "foundation.mainAddress": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://www.beecavedrilling.com/"
+    },
+    "foundation.phone": {
+      "method": "json-ld",
+      "confidence": "high",
+      "url": "https://www.beecavedrilling.com/"
+    },
+    "foundation.industry": {
+      "method": "json-ld",
+      "confidence": "medium",
+      "url": "https://www.beecavedrilling.com/"
+    },
+    "onlinePresence.socials": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://www.beecavedrilling.com/"
+    },
+    "foundation.yearFounded": {
+      "method": "pattern",
+      "confidence": "medium",
+      "url": "https://www.beecavedrilling.com/contact"
+    },
+    "extras.compliance": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://www.beecavedrilling.com/"
+    },
+    "branding.colors": {
+      "method": "css",
+      "confidence": "medium",
+      "url": "https://www.beecavedrilling.com/"
+    },
+    "branding.fonts": {
+      "method": "css",
+      "confidence": "high",
+      "url": "https://www.beecavedrilling.com/"
+    },
+    "offerings": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://www.beecavedrilling.com/"
+    },
+    "market.ctas": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://www.beecavedrilling.com/"
+    },
+    "market.funnels": {
+      "method": "html",
+      "confidence": "medium",
+      "url": "https://www.beecavedrilling.com/"
+    },
+    "market.channels": {
+      "method": "html",
+      "confidence": "medium",
+      "url": "https://www.beecavedrilling.com/"
+    },
+    "people": {
+      "method": "html",
+      "confidence": "medium",
+      "url": "https://www.beecavedrilling.com/staffbios"
+    },
+    "extras.contentThemes": {
+      "method": "html",
+      "confidence": "low",
+      "url": "https://www.beecavedrilling.com/"
+    },
+    "extras.testimonials": {
+      "method": "html",
+      "confidence": "medium",
+      "url": "https://www.beecavedrilling.com/"
+    },
+    "extras.faqs": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://www.beecavedrilling.com/"
+    },
+    "extras.trustSignals": {
+      "method": "html",
+      "confidence": "medium",
+      "url": "https://www.beecavedrilling.com/"
+    },
+    "extras.communityAndValues": {
+      "method": "html",
+      "confidence": "low",
+      "url": "https://www.beecavedrilling.com/"
+    },
+    "extras.voiceSamples": {
+      "method": "html",
+      "confidence": "high",
+      "url": "https://www.beecavedrilling.com/"
+    },
+    "positioning.pitch": {
+      "method": "html",
+      "confidence": "low",
+      "url": "https://www.beecavedrilling.com/"
+    },
+    "branding.images": {
+      "method": "html",
+      "confidence": "medium",
+      "url": "https://www.beecavedrilling.com/"
+    },
+    "foundation.overview": {
+      "method": "meta",
+      "confidence": "medium",
+      "url": "https://www.beecavedrilling.com/"
+    },
+    "extras.contentStarters": {
+      "method": "derived",
+      "confidence": "medium"
+    }
+  }
+}
