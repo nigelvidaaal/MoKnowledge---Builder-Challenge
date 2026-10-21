@@ -26,10 +26,12 @@ function dedupe<T>(items: T[]): T[] {
   for (const item of items) {
     const key = identityOf(item);
     const existing = byKey.get(key);
+
     if (existing === undefined) {
       byKey.set(key, item);
     } else if (isPlainObject(existing) && isPlainObject(item)) {
       const combined: Record<string, unknown> = { ...existing };
+
       for (const [k, v] of Object.entries(item)) {
         const cur = combined[k];
         const curEmpty = cur === null || cur === undefined || cur === "" || (Array.isArray(cur) && cur.length === 0);
@@ -73,6 +75,7 @@ function mergeInto(
       const isEmpty = current === null || current === undefined || current === "";
       const isBetter =
         next && existing && CONFIDENCE_RANK[next.confidence] > CONFIDENCE_RANK[existing.confidence];
+        
       if (isEmpty || isBetter) {
         target[key] = value;
         if (next) kb.sources[fieldPath] = next;
