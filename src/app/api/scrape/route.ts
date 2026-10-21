@@ -8,12 +8,14 @@ export const runtime = "nodejs"; // cheerio needs Node, not the Edge runtime
 /** Up to 60s per request on hosts like Vercel. */
 export const maxDuration = 60;
 
+// setting the event types 
 export type ScrapeEvent =
   | { type: "progress"; message: string }
   | { type: "result"; knowledge: unknown; warnings: string[] }
   | { type: "error"; error: string };
 
 export async function POST(request: Request) {
+  // parses incoming HTML as JSON 
   let body: { url?: unknown };
   try {
     body = await request.json();
@@ -24,6 +26,7 @@ export async function POST(request: Request) {
   const check = validateUrl(typeof body.url === "string" ? body.url : "");
   if (!check.ok) return Response.json({ error: check.error }, { status: 400 });
 
+  // streaming response 
   const encoder = new TextEncoder();
   const stream = new ReadableStream({
     async start(controller) {

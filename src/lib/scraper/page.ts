@@ -1,5 +1,6 @@
 // parses each page once and shares it, so every extractor gets the same view of the site.
 
+// since no LLM, cheerio for ts (like beautifulsoup in py)
 import * as cheerio from "cheerio";
 import type { CheerioAPI } from "cheerio";
 import type { FetchedPage } from "./fetchPage";
